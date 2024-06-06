@@ -1,5 +1,4 @@
-# Hey ☝, I'm Ahren Agatep
----
+# Hey ☝, I'm Ahren Agatep  
 ### Computer Science student at New York Institute of Technology
 #### Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
