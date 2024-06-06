@@ -1,4 +1,4 @@
-### Hey ☝😏, I'm Ahren Agatep
+# Hey ☝😏, I'm Ahren Agatep
 ---
 ### Computer Science student at New York Institute of Technology
 #### Languages:
