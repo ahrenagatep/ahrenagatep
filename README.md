@@ -1,9 +1,11 @@
 # Hey ☝, I'm Ahren Agatep  
 ### Computer Science student at New York Institute of Technology
 
+<!--
 <p align="center">
   <img width="960" height="269" src="https://github.com/ahrenagatep/ahrenagatep/blob/main/nge.gif">
 </p>
+-->
 
 ### 🖥️ Languages / Software:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
