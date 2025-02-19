@@ -15,8 +15,7 @@
 ### 📫 How to reach me: [1ahren7@gmail.com](mailto:1ahren7@gmail.com) / [LinkedIn](www.linkedin.com/in/ahrenagatep/)
 
 # Stats 📊
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahrenagatep&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahrenagtep&layout=compact&theme=github_dark_dimmed)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahrenagatep&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)   
 ![](https://komarev.com/ghpvc/?username=ahrenagatep&color=blue&style=flat)<sup> (you're on here!)<sup/>    
 
 <!--
