@@ -18,6 +18,7 @@
 
 <!--
 **ahrenagatep/ahrenagatep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TECH STACK BADGES -> https://github.com/Ileriayo/markdown-badges
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
