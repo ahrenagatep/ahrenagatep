@@ -1,4 +1,4 @@
-# Hey ☝, I'm Ahren Agatep  
+## Hey ☝, I'm Ahren Agatep  
 ### Computer Science student @ New York Institute of Technology
 
 <!--
@@ -12,7 +12,7 @@
 #### 🌱 Currently Learning: ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 #### 📫 How to reach me: [1ahren7@gmail.com](mailto:1ahren7@gmail.com) / [LinkedIn](www.linkedin.com/in/ahrenagatep/)
 
-## Stats 📊
+## My Languages & Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahrenagatep&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)   
 ![](https://komarev.com/ghpvc/?username=ahrenagatep&color=blue&style=flat)<sup> (you're on here!)<sup/>    
 
