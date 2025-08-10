@@ -1,5 +1,5 @@
-## Hey ☝, I'm Ahren Agatep  
-#### Computer Science student @ New York Institute of Technology
+# Hey ☝, I'm Ahren Agatep  
+### Computer Science student @ New York Institute of Technology
 
 <!--
 <p align="center">
