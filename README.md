@@ -12,7 +12,7 @@
 
 -->
 
- - 🖥️ Languages / Software: Java, Python, CSS, HTML
+ - 🖥️ Languages: Java, Python, CSS, HTML
 
  - 🌱 Currently Learning: MongoDB, Express.js, React, Node.js
 
