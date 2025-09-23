@@ -12,9 +12,9 @@
 
 -->
 
-#### 🖥️ Languages / Software: Java, Python, CSS, HTML
+ - 🖥️ Languages / Software: Java, Python, CSS, HTML
 
-#### 🌱 Currently Learning: MongoDB, Express.js, React, Node.js
+ - 🌱 Currently Learning: MongoDB, Express.js, React, Node.js
 
 #### 📫 How to reach me: [1ahren7@gmail.com](mailto:1ahren7@gmail.com) / [LinkedIn](www.linkedin.com/in/ahrenagatep/)
 
