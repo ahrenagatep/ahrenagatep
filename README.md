@@ -1,6 +1,10 @@
 ## Hey ☝, I'm Ahren Agatep  
 ### Computer Science student @ New York Institute of Technology
 
+<p>
+  <img width="260" height="108" src="https://github.com/ahrenagatep/ahrenagatep/blob/main/croops.gif"><img width="260" height="108" src="https://github.com/ahrenagatep/ahrenagatep/blob/main/croops.gif"><img width="260" height="108" src="https://github.com/ahrenagatep/ahrenagatep/blob/main/croops.gif">
+</p>
+
 <!--
 <p align="center">
   <img width="960" height="269" src="https://github.com/ahrenagatep/ahrenagatep/blob/main/nge.gif">
