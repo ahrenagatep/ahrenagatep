@@ -1,10 +1,6 @@
 ## Hey ☝, I'm Ahren Agatep  
 ### Computer Science student @ New York Institute of Technology
 
-<p>
-  <img width="260" height="108" src="https://github.com/ahrenagatep/ahrenagatep/blob/main/croops.gif"><img width="260" height="108" src="https://github.com/ahrenagatep/ahrenagatep/blob/main/croops.gif"><img width="260" height="108" src="https://github.com/ahrenagatep/ahrenagatep/blob/main/croops.gif">
-</p>
-
 <!--
 <p align="center">
   <img width="960" height="269" src="https://github.com/ahrenagatep/ahrenagatep/blob/main/nge.gif">
@@ -26,6 +22,10 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ahrenagatep&layout=compact&langs_count=4&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=ahrenagatep&layout=compact&langs_count=4&theme=github_dark)
 
 ![](https://komarev.com/ghpvc/?username=ahrenagatep&color=blue&style=flat)<sup> (you're on here!)<sup/>    
+
+<p>
+  <img width="130" height="54" src="https://github.com/ahrenagatep/ahrenagatep/blob/main/croopsbg.gif"><img width="130" height="54" src="https://github.com/ahrenagatep/ahrenagatep/blob/main/croopsbg.gif"><img width="130" height="54" src="https://github.com/ahrenagatep/ahrenagatep/blob/main/croopsbg.gif"><img width="130" height="54" src="https://github.com/ahrenagatep/ahrenagatep/blob/main/croopsbg.gif"><img width="130" height="54" src="https://github.com/ahrenagatep/ahrenagatep/blob/main/croopsbg.gif"><img width="130" height="54" src="https://github.com/ahrenagatep/ahrenagatep/blob/main/croopsbg.gif">
+</p>
 
 <!--
 **ahrenagatep/ahrenagatep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
