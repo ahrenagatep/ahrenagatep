@@ -20,7 +20,16 @@
 ✉️[1ahren7@gmail.com](mailto:1ahren7@gmail.com)  🔗[LinkedIn](www.linkedin.com/in/ahrenagatep/)
 
 ## My Languages & Tools:
+
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=ahrenagatep&layout=compact&langs_count=4&theme=github_dark">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ahrenagatep&layout=compact&langs_count=4&theme=github_dark" />
+  </a>
+</p>
+
+<!--
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ahrenagatep&layout=compact&langs_count=4&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=ahrenagatep&layout=compact&langs_count=4&theme=github_dark)
+-->
 
 ![](https://komarev.com/ghpvc/?username=ahrenagatep&color=blue&style=flat)<sup> (you're on here!)<sup/>    
 
