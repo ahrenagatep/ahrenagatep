@@ -1,5 +1,6 @@
-## Hey ☝, I'm Ahren Agatep  
-### Computer Science student @ New York Institute of Technology
+## Welcome to my profile!
+
+#### Hey, I'm Ahren! I'm software engineer and Computer Science student at the New York Institute of Technology. 
 
 <!--
 <p align="center">
@@ -11,10 +12,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 
 -->
-
- - 🖥️ Languages: Java, Python, CSS, HTML
-
- - 🌱 Currently Learning: MongoDB, Express.js, React, Node.js
+#### Languages and Frameworks:
+ - Java, JavaScript, Python, CSS, HTML
+ - MongoDB, Express.js, React, Node.js
+ - Currently Learning: React Native, PostgreSQL
 
 #### 📫 How to reach me: [1ahren7@gmail.com](mailto:1ahren7@gmail.com) / [LinkedIn](www.linkedin.com/in/ahrenagatep/)
 
