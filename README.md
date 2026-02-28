@@ -1,6 +1,6 @@
 ## Welcome to my profile!
 
-#### Hey, I'm Ahren! I'm software engineer and Computer Science student at the New York Institute of Technology. 
+### Hey, I'm Ahren! I'm software engineer and Computer Science student at the New York Institute of Technology. 
 
 <!--
 <p align="center">
@@ -17,14 +17,14 @@
  - MongoDB, Express.js, React, Node.js
  - Currently Learning: React Native, PostgreSQL
 
-#### 📫 How to reach me: [1ahren7@gmail.com](mailto:1ahren7@gmail.com) / [LinkedIn](www.linkedin.com/in/ahrenagatep/)
+✉️[1ahren7@gmail.com](mailto:1ahren7@gmail.com)  🔗[LinkedIn](www.linkedin.com/in/ahrenagatep/)
 
 ## My Languages & Tools:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ahrenagatep&layout=compact&langs_count=4&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=ahrenagatep&layout=compact&langs_count=4&theme=github_dark)
 
 ![](https://komarev.com/ghpvc/?username=ahrenagatep&color=blue&style=flat)<sup> (you're on here!)<sup/>    
 
-<p>
+<p align="center">
   <img width="130" height="54" src="https://github.com/ahrenagatep/ahrenagatep/blob/main/croopsbg.gif"><img width="130" height="54" src="https://github.com/ahrenagatep/ahrenagatep/blob/main/croopsbg.gif"><img width="130" height="54" src="https://github.com/ahrenagatep/ahrenagatep/blob/main/croopsbg.gif"><img width="130" height="54" src="https://github.com/ahrenagatep/ahrenagatep/blob/main/croopsbg.gif"><img width="130" height="54" src="https://github.com/ahrenagatep/ahrenagatep/blob/main/croopsbg.gif"><img width="130" height="54" src="https://github.com/ahrenagatep/ahrenagatep/blob/main/croopsbg.gif">
 </p>
 
