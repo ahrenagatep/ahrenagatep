@@ -1,6 +1,6 @@
 ## Welcome to my profile!
 
-### Hey, I'm Ahren! I'm software engineer and Computer Science student at the New York Institute of Technology. 
+### Hey, I'm Ahren! I'm software engineer and Computer Science student at the New York Institute of Technology. I am currently working on a receipt splitter to divide the check amongst your peers!
 
 <!--
 <p align="center">
