@@ -1,4 +1,4 @@
-## Welcome to my profile!
+<h2 align="center">Hi there 👋, Welcome to my GitHub page!</h2>
 
 ### Hey, I'm Ahren! I'm software engineer and Computer Science student at the New York Institute of Technology. I am currently working on a receipt splitter to divide the check amongst your peers.
 
